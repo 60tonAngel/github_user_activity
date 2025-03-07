@@ -1,0 +1,3 @@
+users:
+  username:    # GitHub 用户名
+    token: ""  # GitHub Token
